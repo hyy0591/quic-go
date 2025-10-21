@@ -7,8 +7,8 @@ import (
 	"io"
 	"os"
 
-	"github.com/apernet/quic-go"
-	mockquic "github.com/apernet/quic-go/internal/mocks/quic"
+	"github.com/hyy0591/quic-go"
+	mockquic "github.com/hyy0591/quic-go/internal/mocks/quic"
 
 	. "github.com/onsi/ginkgo/v2"
 	. "github.com/onsi/gomega"

@@ -1,6 +1,6 @@
 package logging
 
-import "github.com/apernet/quic-go/internal/wire"
+import "github.com/hyy0591/quic-go/internal/wire"
 
 // A Frame is a QUIC frame
 type Frame interface{}

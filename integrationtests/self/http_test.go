@@ -23,9 +23,9 @@ import (
 
 	"golang.org/x/sync/errgroup"
 
-	"github.com/apernet/quic-go"
-	"github.com/apernet/quic-go/http3"
-	quicproxy "github.com/apernet/quic-go/integrationtests/tools/proxy"
+	"github.com/hyy0591/quic-go"
+	"github.com/hyy0591/quic-go/http3"
+	quicproxy "github.com/hyy0591/quic-go/integrationtests/tools/proxy"
 
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"

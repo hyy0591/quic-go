@@ -1,4 +1,4 @@
-module github.com/apernet/quic-go
+module github.com/hyy0591/quic-go
 
 go 1.20
 

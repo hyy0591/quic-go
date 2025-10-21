@@ -4,8 +4,8 @@ import (
 	"errors"
 	"io"
 
-	"github.com/apernet/quic-go/internal/protocol"
-	"github.com/apernet/quic-go/quicvarint"
+	"github.com/hyy0591/quic-go/internal/protocol"
+	"github.com/hyy0591/quic-go/quicvarint"
 )
 
 // A NewTokenFrame is a NEW_TOKEN frame

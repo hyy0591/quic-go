@@ -8,7 +8,7 @@ import (
 
 	"golang.org/x/sys/unix"
 
-	"github.com/apernet/quic-go/internal/utils"
+	"github.com/hyy0591/quic-go/internal/utils"
 )
 
 func setDF(rawConn syscall.RawConn) (bool, error) {

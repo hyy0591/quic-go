@@ -3,10 +3,10 @@
 package logging
 
 import (
-	"github.com/apernet/quic-go/internal/protocol"
-	"github.com/apernet/quic-go/internal/qerr"
-	"github.com/apernet/quic-go/internal/utils"
-	"github.com/apernet/quic-go/internal/wire"
+	"github.com/hyy0591/quic-go/internal/protocol"
+	"github.com/hyy0591/quic-go/internal/qerr"
+	"github.com/hyy0591/quic-go/internal/utils"
+	"github.com/hyy0591/quic-go/internal/wire"
 )
 
 type (

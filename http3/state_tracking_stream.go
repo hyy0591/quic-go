@@ -6,7 +6,7 @@ import (
 	"os"
 	"sync"
 
-	"github.com/apernet/quic-go"
+	"github.com/hyy0591/quic-go"
 )
 
 var _ quic.Stream = &stateTrackingStream{}

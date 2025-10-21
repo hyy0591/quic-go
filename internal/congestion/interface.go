@@ -3,8 +3,8 @@ package congestion
 import (
 	"time"
 
-	"github.com/apernet/quic-go/congestion"
-	"github.com/apernet/quic-go/internal/protocol"
+	"github.com/hyy0591/quic-go/congestion"
+	"github.com/hyy0591/quic-go/internal/protocol"
 )
 
 // A SendAlgorithm performs congestion control

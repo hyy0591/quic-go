@@ -11,12 +11,12 @@ import (
 	"testing"
 	"time"
 
-	mocklogging "github.com/apernet/quic-go/internal/mocks/logging"
-	"github.com/apernet/quic-go/internal/protocol"
-	"github.com/apernet/quic-go/internal/qerr"
-	"github.com/apernet/quic-go/internal/utils"
-	"github.com/apernet/quic-go/internal/wire"
-	"github.com/apernet/quic-go/logging"
+	mocklogging "github.com/hyy0591/quic-go/internal/mocks/logging"
+	"github.com/hyy0591/quic-go/internal/protocol"
+	"github.com/hyy0591/quic-go/internal/qerr"
+	"github.com/hyy0591/quic-go/internal/utils"
+	"github.com/hyy0591/quic-go/internal/wire"
+	"github.com/hyy0591/quic-go/logging"
 
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"

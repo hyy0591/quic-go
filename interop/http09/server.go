@@ -9,7 +9,7 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/apernet/quic-go"
+	"github.com/hyy0591/quic-go"
 )
 
 const NextProto = "hq-interop"

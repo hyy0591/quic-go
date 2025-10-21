@@ -3,7 +3,7 @@ package quic
 import (
 	"fmt"
 
-	"github.com/apernet/quic-go/internal/qerr"
+	"github.com/hyy0591/quic-go/internal/qerr"
 )
 
 type (

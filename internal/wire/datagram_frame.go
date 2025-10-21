@@ -3,8 +3,8 @@ package wire
 import (
 	"io"
 
-	"github.com/apernet/quic-go/internal/protocol"
-	"github.com/apernet/quic-go/quicvarint"
+	"github.com/hyy0591/quic-go/internal/protocol"
+	"github.com/hyy0591/quic-go/quicvarint"
 )
 
 // MaxDatagramSize is the maximum size of a DATAGRAM frame (RFC 9221).

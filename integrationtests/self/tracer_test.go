@@ -11,12 +11,12 @@ import (
 	"testing"
 	"time"
 
-	"github.com/apernet/quic-go"
-	"github.com/apernet/quic-go/internal/protocol"
-	"github.com/apernet/quic-go/internal/utils"
-	"github.com/apernet/quic-go/logging"
-	"github.com/apernet/quic-go/metrics"
-	"github.com/apernet/quic-go/qlog"
+	"github.com/hyy0591/quic-go"
+	"github.com/hyy0591/quic-go/internal/protocol"
+	"github.com/hyy0591/quic-go/internal/utils"
+	"github.com/hyy0591/quic-go/logging"
+	"github.com/hyy0591/quic-go/metrics"
+	"github.com/hyy0591/quic-go/qlog"
 
 	"github.com/stretchr/testify/require"
 )

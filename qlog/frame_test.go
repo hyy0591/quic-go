@@ -7,9 +7,9 @@ import (
 	"time"
 
 	"github.com/francoispqt/gojay"
-	"github.com/apernet/quic-go/internal/protocol"
-	"github.com/apernet/quic-go/internal/qerr"
-	"github.com/apernet/quic-go/logging"
+	"github.com/hyy0591/quic-go/internal/protocol"
+	"github.com/hyy0591/quic-go/internal/qerr"
+	"github.com/hyy0591/quic-go/logging"
 	"github.com/stretchr/testify/require"
 )
 

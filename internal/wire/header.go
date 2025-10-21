@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/apernet/quic-go/internal/protocol"
-	"github.com/apernet/quic-go/quicvarint"
+	"github.com/hyy0591/quic-go/internal/protocol"
+	"github.com/hyy0591/quic-go/quicvarint"
 )
 
 // ParseConnectionID parses the destination connection ID of a packet.

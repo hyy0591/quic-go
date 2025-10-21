@@ -9,10 +9,10 @@ import (
 	"os"
 	"strings"
 
-	"github.com/apernet/quic-go"
-	"github.com/apernet/quic-go/internal/utils"
-	"github.com/apernet/quic-go/logging"
-	"github.com/apernet/quic-go/qlog"
+	"github.com/hyy0591/quic-go"
+	"github.com/hyy0591/quic-go/internal/utils"
+	"github.com/hyy0591/quic-go/logging"
+	"github.com/hyy0591/quic-go/qlog"
 )
 
 // GetSSLKeyLog creates a file for the TLS key log

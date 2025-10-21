@@ -3,7 +3,7 @@ package wire
 import (
 	"sync"
 
-	"github.com/apernet/quic-go/internal/protocol"
+	"github.com/hyy0591/quic-go/internal/protocol"
 )
 
 var pool sync.Pool

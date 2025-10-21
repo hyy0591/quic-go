@@ -5,10 +5,10 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/apernet/quic-go/internal/flowcontrol"
-	"github.com/apernet/quic-go/internal/protocol"
-	"github.com/apernet/quic-go/internal/qerr"
-	"github.com/apernet/quic-go/internal/wire"
+	"github.com/hyy0591/quic-go/internal/flowcontrol"
+	"github.com/hyy0591/quic-go/internal/protocol"
+	"github.com/hyy0591/quic-go/internal/qerr"
+	"github.com/hyy0591/quic-go/internal/wire"
 )
 
 type streamError struct {

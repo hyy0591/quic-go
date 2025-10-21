@@ -3,7 +3,7 @@ package flowcontrol
 import (
 	"time"
 
-	"github.com/apernet/quic-go/internal/protocol"
+	"github.com/hyy0591/quic-go/internal/protocol"
 )
 
 type flowController interface {

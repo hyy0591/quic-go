@@ -5,10 +5,10 @@ import (
 	"log"
 	mrand "math/rand/v2"
 
-	"github.com/apernet/quic-go/fuzzing/header"
-	"github.com/apernet/quic-go/fuzzing/internal/helper"
-	"github.com/apernet/quic-go/internal/protocol"
-	"github.com/apernet/quic-go/internal/wire"
+	"github.com/hyy0591/quic-go/fuzzing/header"
+	"github.com/hyy0591/quic-go/fuzzing/internal/helper"
+	"github.com/hyy0591/quic-go/internal/protocol"
+	"github.com/hyy0591/quic-go/internal/wire"
 )
 
 const version = protocol.Version1

@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/apernet/quic-go/internal/protocol"
-	"github.com/apernet/quic-go/internal/qerr"
-	"github.com/apernet/quic-go/internal/utils"
+	"github.com/hyy0591/quic-go/internal/protocol"
+	"github.com/hyy0591/quic-go/internal/qerr"
+	"github.com/hyy0591/quic-go/internal/utils"
 )
 
 type connectionFlowController struct {

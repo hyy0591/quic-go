@@ -3,7 +3,7 @@ package quic
 import (
 	"time"
 
-	"github.com/apernet/quic-go/internal/utils"
+	"github.com/hyy0591/quic-go/internal/utils"
 )
 
 var deadlineSendImmediately = time.Time{}.Add(42 * time.Millisecond) // any value > time.Time{} and before time.Now() is fine

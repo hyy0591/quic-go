@@ -3,8 +3,8 @@ package wire
 import (
 	"io"
 
-	"github.com/apernet/quic-go/internal/protocol"
-	"github.com/apernet/quic-go/quicvarint"
+	"github.com/hyy0591/quic-go/internal/protocol"
+	"github.com/hyy0591/quic-go/quicvarint"
 )
 
 // A ConnectionCloseFrame is a CONNECTION_CLOSE frame

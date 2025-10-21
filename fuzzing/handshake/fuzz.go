@@ -15,12 +15,12 @@ import (
 	"net"
 	"time"
 
-	"github.com/apernet/quic-go/fuzzing/internal/helper"
-	"github.com/apernet/quic-go/internal/handshake"
-	"github.com/apernet/quic-go/internal/protocol"
-	"github.com/apernet/quic-go/internal/qtls"
-	"github.com/apernet/quic-go/internal/utils"
-	"github.com/apernet/quic-go/internal/wire"
+	"github.com/hyy0591/quic-go/fuzzing/internal/helper"
+	"github.com/hyy0591/quic-go/internal/handshake"
+	"github.com/hyy0591/quic-go/internal/protocol"
+	"github.com/hyy0591/quic-go/internal/qtls"
+	"github.com/hyy0591/quic-go/internal/utils"
+	"github.com/hyy0591/quic-go/internal/wire"
 )
 
 var (

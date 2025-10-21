@@ -1,8 +1,8 @@
 package ackhandler
 
 import (
-	"github.com/apernet/quic-go/internal/protocol"
-	"github.com/apernet/quic-go/internal/utils"
+	"github.com/hyy0591/quic-go/internal/protocol"
+	"github.com/hyy0591/quic-go/internal/utils"
 )
 
 type packetNumberGenerator interface {

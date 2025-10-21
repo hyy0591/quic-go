@@ -6,13 +6,13 @@ import (
 	"sync"
 	"time"
 
-	congestionExt "github.com/apernet/quic-go/congestion"
-	"github.com/apernet/quic-go/internal/congestion"
-	"github.com/apernet/quic-go/internal/protocol"
-	"github.com/apernet/quic-go/internal/qerr"
-	"github.com/apernet/quic-go/internal/utils"
-	"github.com/apernet/quic-go/internal/wire"
-	"github.com/apernet/quic-go/logging"
+	congestionExt "github.com/hyy0591/quic-go/congestion"
+	"github.com/hyy0591/quic-go/internal/congestion"
+	"github.com/hyy0591/quic-go/internal/protocol"
+	"github.com/hyy0591/quic-go/internal/qerr"
+	"github.com/hyy0591/quic-go/internal/utils"
+	"github.com/hyy0591/quic-go/internal/wire"
+	"github.com/hyy0591/quic-go/logging"
 )
 
 const (

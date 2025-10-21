@@ -3,7 +3,7 @@ package quic
 import (
 	"sync"
 
-	"github.com/apernet/quic-go/internal/protocol"
+	"github.com/hyy0591/quic-go/internal/protocol"
 )
 
 type packetBuffer struct {

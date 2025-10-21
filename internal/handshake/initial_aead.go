@@ -6,7 +6,7 @@ import (
 
 	"golang.org/x/crypto/hkdf"
 
-	"github.com/apernet/quic-go/internal/protocol"
+	"github.com/hyy0591/quic-go/internal/protocol"
 )
 
 var (

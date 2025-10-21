@@ -8,8 +8,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/apernet/quic-go/internal/utils"
-	"github.com/apernet/quic-go/logging"
+	"github.com/hyy0591/quic-go/internal/utils"
+	"github.com/hyy0591/quic-go/logging"
 )
 
 // DefaultConnectionTracer creates a qlog file in the qlog directory specified by the QLOGDIR environment variable.
